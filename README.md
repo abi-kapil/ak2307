@@ -1,4 +1,4 @@
-# Hi, I'm Abi Kapil
+# Hi, I'm Abhishek Kapil
 
 Full-stack developer with 6+ years of experience building web applications 
 for clients across e-commerce, SaaS, and enterprise platforms. Currently 
